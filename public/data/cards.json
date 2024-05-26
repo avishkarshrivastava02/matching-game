@@ -1,0 +1,9 @@
+// public/assets/ contains image1.png, image2.png, image3.png
+[
+    { "id": 1, "image": "/assets/image1.png", "matched": false },
+    { "id": 2, "image": "/assets/image2.png", "matched": false },
+    { "id": 3, "image": "/assets/image3.png", "matched": false },
+    { "id": 4, "image": "/assets/image1.png", "matched": false },
+    { "id": 5, "image": "/assets/image2.png", "matched": false },
+    { "id": 6, "image": "/assets/image3.png", "matched": false }
+]
